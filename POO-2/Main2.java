@@ -53,6 +53,7 @@ public class Main2 {
         }
 
         System.out.println("\nVotre score final est : " + totalScore + " sur " + quizzList.length);
+        scanner.close();
     }
 
 
